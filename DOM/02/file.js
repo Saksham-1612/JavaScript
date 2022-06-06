@@ -1,6 +1,6 @@
-var tittle = document.getElementsByClassName("tittle");
+var title = document.getElementsByClassName("title");
 let text="LearnCodeOffline";
 function change()
 {
-    tittle.innerText = text;
+    title.innerText = text;
 }
