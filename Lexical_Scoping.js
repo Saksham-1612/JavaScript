@@ -4,7 +4,7 @@ function init(){
     function sayFirstName(firstName){
         console.log(firstName);
     }
-    sayFirstName();
+    sayFirstName(firstName);
 }
 
 init();
