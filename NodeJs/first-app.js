@@ -1,4 +1,5 @@
 function sayHello(name) {
     console.log(name,"Hello");   
 }
-sayHello("Saksham");
+// sayHello("Temp");
+module.exports.sayHello = sayHello;
